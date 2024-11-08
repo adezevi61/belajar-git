@@ -1,0 +1,1 @@
+console.log('ini adalah tes ke 2');
