@@ -1,1 +1,1 @@
-console.log('ini adalah tes ke 2');
+console.log('ini adalah tes ke 2 saya');
